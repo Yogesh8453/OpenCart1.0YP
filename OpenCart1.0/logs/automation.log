@@ -10,3 +10,33 @@
 12:40:32:345 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - ****Finished the TC001_VerifyAccountRegistrationPage..****
 12:40:36:372 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Started***
 12:40:38:132 [main] INFO  testCases.TC002_LoginTest - ****TC002 LoginTest Complete****
+15:43:22:287 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Yogesh\Eclipse\OpenCart1.0\master.xml"
+15:43:22:860 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Yogesh\Eclipse\OpenCart1.0\master.xml
+
+15:43:29:147 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Starting TC001_VerifyAccountRegistrationPage Test***
+15:43:29:723 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Clicked on MyAccount Link***
+15:43:30:264 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Clicked on Register Link***
+15:43:30:267 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Providing Customer details***
+15:43:32:638 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Validating expected message***
+15:43:32:695 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - ****Finished the TC001_VerifyAccountRegistrationPage..****
+15:43:36:580 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Started***
+15:43:38:502 [main] INFO  testCases.TC002_LoginTest - ****TC002 LoginTest Complete****
+18:20:00:270 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Yogesh\Eclipse\OpenCart1.0\master.xml"
+18:20:09:874 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Starting TC001_VerifyAccountRegistrationPage Test***
+18:20:10:178 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Clicked on MyAccount Link***
+18:20:10:670 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Clicked on Register Link***
+18:20:10:673 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Providing Customer details***
+18:20:14:290 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Validating expected message***
+18:20:14:355 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - ****Finished the TC001_VerifyAccountRegistrationPage..****
+18:20:19:357 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Started***
+18:20:21:313 [main] INFO  testCases.TC002_LoginTest - ****TC002 LoginTest Complete****
+18:33:36:615 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Yogesh\Eclipse\OpenCart1.0\master.xml"
+18:33:42:360 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Starting TC001_VerifyAccountRegistrationPage Test***
+18:33:42:479 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Clicked on MyAccount Link***
+18:33:42:952 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Clicked on Register Link***
+18:33:42:955 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Providing Customer details***
+18:33:45:116 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Validating expected message***
+18:33:45:196 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - ****Finished the TC001_VerifyAccountRegistrationPage..****
+18:33:50:099 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Started***
+18:33:51:874 [main] INFO  testCases.TC002_LoginTest - ****TC002 LoginTest Complete****
